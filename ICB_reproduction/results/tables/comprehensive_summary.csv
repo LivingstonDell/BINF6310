@@ -1,0 +1,6 @@
+"Dataset","Study","Total_Cells","Pre_Treatment","Post_Treatment"
+"Melanoma","Jerby-Arnon/Tirosh",1945,1143,802
+"BCC","Yost",3500,2521,979
+"Liver","Ma",1992,275,1717
+"Breast","Bassez",65882,35587,30295
+"TOTAL","-",73319,39526,33793

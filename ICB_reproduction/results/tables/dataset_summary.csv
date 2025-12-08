@@ -1,0 +1,5 @@
+"Dataset","Study","Cancer_Type","Total_Cells","Pre_Treatment","Post_Treatment"
+"Melanoma","Jerby-Arnon/Tirosh","Skin",1945,1143,802
+"BCC","Yost","Skin",3500,2521,979
+"Liver","Ma","Liver (HCC+iCCA)",1992,275,1717
+"Breast","Bassez","Breast (ER+, HER2+, TNBC)",65882,35587,30295
